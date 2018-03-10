@@ -1,0 +1,12 @@
+{
+  "name": "CONTRiBUTIONS Demo ROM",
+  "author": "Yukino Song",
+  "version": "0.0.1",
+  "main": "dist/main.js",
+  "license": "MIT",
+  "homepage": "https://github.com/ClassicOldSong",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ClassicOldSong/-CiBROM-DEMO"
+  }
+}
